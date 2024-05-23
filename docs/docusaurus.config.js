@@ -10,8 +10,8 @@ const katex = require('rehype-katex');
 const config = {
   title: 'FeatureProbe',
   tagline: 'An open source feature management service',
-  url: 'https://featureprobe.github.io/',
-  baseUrl: '/FeatureProbe/',
+  url: 'https://featureprobe.docs.mystery0.app/',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
